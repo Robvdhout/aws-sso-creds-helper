@@ -1,0 +1,42 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ryansonshine",
+      "name": "Ryan Sonshine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9534477?v=4",
+      "profile": "https://ryansonshine.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "stobias123",
+      "name": "Steven Tobias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/590677?v=4",
+      "profile": "https://blog.stobias.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sclarson",
+      "name": "sclarson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/393467?v=4",
+      "profile": "https://github.com/sclarson",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "aws-sso-creds-helper",
+  "projectOwner": "ryansonshine",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
